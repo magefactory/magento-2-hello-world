@@ -2,6 +2,7 @@
 
 * Simple Magento 2 module
 
+* Version 1.0.4
 
 
 
