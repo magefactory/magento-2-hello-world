@@ -1,0 +1,22 @@
+{
+  "name": "magefactory/module-hello-world",
+  "description": "Hello World test module for Magento 2",
+  "type": "magento2-module",
+  "version": "1.0.0",
+
+  "license": "Commercial",
+  "authors": [
+    {
+      "name": "Alexander Naumov"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Magefactory\\HelloWorld\\": ""
+    }
+  }
+
+}
