@@ -1,6 +1,6 @@
-"# test" 
+# Test Hello World Magento 2 module 
 
-* Version 1.0.0
+* Simple Magento 2 module
 
 
 
