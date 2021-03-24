@@ -2,8 +2,7 @@
   "name": "magefactory/module-hello-world",
   "description": "Hello World test module for Magento 2",
   "type": "magento2-module",
-  "version": "1.0.8",
-
+  "version": "1.0.9",
   "license": "Commercial",
   "authors": [
     {
